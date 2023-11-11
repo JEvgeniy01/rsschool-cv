@@ -6,11 +6,11 @@
 
 **E-mail:** evgeniy.turov@mail.ru  
 **Telegram:** @EvgenyTurov  
-**GitHub:** https://github.com/JEvgeniy01
+**GitHub:** https://github.com/JEvgeniy01  
 **Discord** Evgeniy(@JEvgeniy01)
 
 ## About me  
----
+
 
 I am 26 years old a bridge engineer with three years of work experience on difficult complicated construction objects. At this time I have been studying for Frontend-developer. I have been studying already about 1.5 years. It is important to me that in this area of IT you can almost immediately see result of your work. I believe that my work experience and my desire to learn a new profession will help me to become successful in web-development.
 
